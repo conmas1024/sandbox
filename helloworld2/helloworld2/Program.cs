@@ -10,6 +10,7 @@ namespace helloworld2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World 22222 !");
             Console.WriteLine("Hello World 23456 !");
         }
     }
